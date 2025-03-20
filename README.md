@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 
 ## Example Screenshot
 
-![Screenshot](https://github.com/Shefalidesai/Ai-Code-Documentation-generator/blob/main/Screenshot-1.jpeg)
+![Screenshot](https://github.com/Shefa-li/Ai-Code-Documentation-generator/blob/main/Screenshot-1.jpeg)
 
